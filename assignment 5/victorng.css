@@ -1,0 +1,56 @@
+body {	
+margin-right: 10%
+;	
+	margin-left: 10%
+;	
+	font-family: "Calibri", "Lucida Grande", sans-serif;
+	font-size: normal;
+
+}
+
+
+h1 {
+	color: #2A3F55;
+	
+	margin-top: 0em;
+	
+	font-size: 3em;
+	font-family: "Arial Black", Gadget, sans-serif;
+
+}
+
+h2 {
+	color: #2A3F55;
+	font-family: "Calibri", "Lucida Grande", sans-serif;
+		
+	margin-top: 1.5em;
+
+}
+
+
+
+
+p  {
+	font-size: 120%;
+
+}
+
+dd {
+	font-size: .9em;
+}
+
+dt {
+	margin-top: 1em;
+	
+	margin-right: 0em;
+	
+	margin-bottom: 0em;
+	
+	margin-left: 0em;
+
+}
+
+
+em2 {
+	font-weight: bold;
+}
